@@ -2,7 +2,7 @@
 <html>
 <head><title> Sign Up Page </head></title>
 <body align="center">
- <form action="Sign Up Page 1.html">
+ <form action="Sign Up Page 1.php">
 <h1 align="center">Sign Up</h1>
 <br>
 <h3>Email Address: <input type="name"></h3>
