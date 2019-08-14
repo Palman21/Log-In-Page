@@ -11,9 +11,7 @@
 <h3>Confirm Password: <input type="name"></h3>
 <input type="submit" name="submit" value="Sign Up">
 
-
-
-               </form>
+</form>
 
 </body>
 </html>
