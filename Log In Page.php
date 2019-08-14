@@ -35,9 +35,9 @@
  </center>
 </table>
 </main>
-<a ="center" href="Reset Password Page.html">Reset Password</a>
+<a ="center" href="Reset Password Page.php">Reset Password</a>
 <br/>
-<a ="center" href="Sign Up Page.html">Sign Up</a>
+<a ="center" href="Sign Up Page.php">Sign Up</a>
 
     </body>
    
