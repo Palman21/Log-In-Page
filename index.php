@@ -31,10 +31,9 @@
 
                         </td>
                     </tr>
-                   
- </center>
-</table>
-</main>
+                    </center>
+                </table>
+            </main>
 <a ="center" href="Reset Password Page.php">Reset Password</a>
 <br/>
 <a ="center" href="Sign Up Page.php">Sign Up</a>
