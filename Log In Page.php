@@ -9,7 +9,7 @@
         <center>
             <h2>Login Here</h2>
 
-            <form action="http://palman22.herokuapp.com/" method="post">
+            <form action="photogallery.php" method="post">
 
                 <table>
                     <tr>
