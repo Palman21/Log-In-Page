@@ -2,6 +2,9 @@
 <html>
 <head>
     <title>Log In Page</title>
+<style type="text/css">
+    h2 {font-family:georgia; color:red;}
+    </style>
 </head>
 <body align="center">
  
